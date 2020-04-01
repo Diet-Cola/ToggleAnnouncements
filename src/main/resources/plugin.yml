@@ -1,0 +1,6 @@
+name: ToggleAnnouncements
+version: ${project.version}
+main: com.github.dietcola.toggleannouncements.ToggleAnnouncements
+api-version: 1.13
+authors: [Diet_Cola]
+description: Announcements ran every so often that can be toggled off by players
